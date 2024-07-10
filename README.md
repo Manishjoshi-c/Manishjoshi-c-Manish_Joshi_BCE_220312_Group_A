@@ -42,9 +42,3 @@ A Java class representing a student. It includes fields for student details and 
 ### testStatic.java
 This program illustrates the use of static variables and methods in Java. It shows how static members are shared across all instances of a class.
 
-## How to Run
-
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/bijay-develops/Bijay_BK_BCE_220305_Group_A.git
-   cd Bijay_BK_BCE_220305_Group_A
